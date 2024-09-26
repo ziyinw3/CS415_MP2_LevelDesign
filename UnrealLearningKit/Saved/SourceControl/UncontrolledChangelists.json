@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/UI/WBP_HP_bar.uasset",
+				"C:/Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/UI/WBP_Restart.uasset",
+				"C:/Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/Material/TeleMat.uasset",
+				"C:/Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/Material/Healthpack_Mat.uasset",
+				"C:/Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthPacks.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMeshes/Cube.uasset",
+				"C:/Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.uasset",
+				"C:/Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/UI/HP_bar.uasset",
 				"C:/Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
 				"C:/Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/UI/HP_bar.uasset",
 				"C:/Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap"
