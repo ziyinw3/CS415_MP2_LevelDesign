@@ -1,4 +1,1 @@
-[1006/134057.596:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
-[1006/134057.907:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
-[1006/134116.821:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
-[1006/134206.389:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1007/005853.179:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
