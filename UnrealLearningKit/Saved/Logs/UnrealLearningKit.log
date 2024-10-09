@@ -3466,3 +3466,1338 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.10.09-13.06.46:433][305]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
 [2024.10.09-13.06.46:434][305]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
 [2024.10.09-13.06.46:434][305]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:371][147]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.10.09-13.07.30:414][147]LogBlueprint: Error: [AssetLog] C:\Users\kindr\OneDrive\Documents\Unreal Projects\MP2_LevelDesign\CS415_MP2_LevelDesign\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\BP_LearningKit_PlayerCharacter.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2024.10.09-13.07.30:414][147]LogBlueprint: Error: [AssetLog] C:\Users\kindr\OneDrive\Documents\Unreal Projects\MP2_LevelDesign\CS415_MP2_LevelDesign\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\BP_LearningKit_PlayerCharacter.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2024.10.09-13.07.30:414][147]LogBlueprint: Error: [AssetLog] C:\Users\kindr\OneDrive\Documents\Unreal Projects\MP2_LevelDesign\CS415_MP2_LevelDesign\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\BP_LearningKit_PlayerCharacter.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2024.10.09-13.07.30:506][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.10.09-13.07.30:526][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:527][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:527][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:527][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:541][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:542][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:543][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:543][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:544][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:544][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:558][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:558][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:559][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:559][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:570][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:571][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:572][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:572][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:573][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.07.30:573][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.07.45:992][ 37]LogEditorTransaction: Undo Remove Components
+[2024.10.09-13.07.50:687][268]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.10.09-13.07.50:818][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.10.09-13.07.50:832][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.50:833][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.50:833][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.07.50:833][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:055][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:056][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:056][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:057][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:057][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:057][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:069][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:069][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:069][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:069][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:083][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:084][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:084][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:084][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:085][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:085][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.07.51:090][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.07.51:231][268]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.10.09-13.07.51:232][268]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_LearningKit_PlayerCharacter273550FA4D7FAD5EAF137E81606C756B.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.10.09-13.07.51:246][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 12.1 sec)
+[2024.10.09-13.07.51:255][268]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.10.09-13.07.51:255][268]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.10.09-13.08.02:373][921]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.10.09-13.08.02:539][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.10.09-13.08.02:561][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:561][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:562][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:562][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:583][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:583][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:584][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:585][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:586][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:586][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:604][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:604][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:605][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:605][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:622][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:623][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:624][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:625][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:625][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:626][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.08.02:632][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.08.02:808][921]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.10.09-13.08.02:809][921]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_LearningKit_PlayerCharacter7BEBDEE243B09D18263A5D9D6348B5FB.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.10.09-13.08.02:825][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 12.3 sec)
+[2024.10.09-13.08.02:852][921]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.10.09-13.08.02:852][921]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.10.09-13.08.03:016][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.08.03:167][925]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.10.09-13.08.03:168][925]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_LearningKit_PlayerCharacter0194EFF94175DC952CE9EB8480A0B730.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.10.09-13.08.03:186][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 12.4 sec)
+[2024.10.09-13.08.03:196][925]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.10.09-13.08.03:196][925]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.10.09-13.08.03:989][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.08.04:186][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.10.09-13.08.04:283][953]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.08.04:284][953]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/MP2_LevelPt2C5305BE647D83FF0FB1DAFAC7DD66777.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Maps/MP2_LevelPt2.umap'
+[2024.10.09-13.08.04:293][953]LogFileHelpers: Saving map 'MP2_LevelPt2' took 0.148
+[2024.10.09-13.08.04:311][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 321 ms (total: 12.8 sec)
+[2024.10.09-13.08.04:320][953]AssetCheck: New page: Asset Save: MP2_LevelPt2
+[2024.10.09-13.08.04:320][953]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2
+[2024.10.09-13.08.04:804][963]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.09-13.08.04:815][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.09-13.08.04:815][963]PIE: New page: PIE session: MP2_LevelPt2 (Oct 9, 2024, 3:08:04 AM)
+[2024.10.09-13.08.04:815][963]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.08.04:853][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036636s)
+[2024.10.09-13.08.04:853][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2 to /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 (0.036697s)
+[2024.10.09-13.08.04:853][963]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.08.04:853][963]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.09-13.08.04:853][963]LogAIModule: Creating AISystem for world MP2_LevelPt2
+[2024.10.09-13.08.04:854][963]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2024.10.09-13.08.04:911][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.10.09-13.08.04:913][963]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.10.09-13.08.04:913][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.09-13.08.04:913][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.09-13.08.04:913][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.09-13.08.04:913][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.09-13.08.04:913][963]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.09-13.08.04:913][963]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.09-13.08.04:913][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.09-13.08.04:913][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.09-13.08.04:914][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.09-13.08.04:914][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.09-13.08.04:914][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.09-13.08.04:918][963]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.09-13.08.05:008][963]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.09-13.08.05:008][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.09-13.08.05:009][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.09-13.08.05:009][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.09-13.08.05:010][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.10.09-13.08.05:010][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.10.09-13.08.05:014][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.10.09-13.08.05:014][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.10.09-13.08.05:014][963]LogInit: FAudioDevice initialized with ID 20.
+[2024.10.09-13.08.05:014][963]LogAudio: Display: Audio Device (ID: 20) registered with world 'MP2_LevelPt2'.
+[2024.10.09-13.08.05:014][963]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.10.09-13.08.05:074][963]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.10.09-13.08.05:083][963]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_4, they are designed to work with AAIControllers!
+[2024.10.09-13.08.05:083][963]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_1, they are designed to work with AAIControllers!
+[2024.10.09-13.08.05:083][963]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 up for play (max tick rate 60) at 2024.10.09-08.08.05
+[2024.10.09-13.08.06:605][963]LogWorld: Bringing up level for play took: 1.531164
+[2024.10.09-13.08.06:608][963]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.10.09-13.08.06:612][963]LogBlueprintUserMessages: [Froge_AI_Controller_C_0] running Froge BT
+[2024.10.09-13.08.06:614][963]PIE: Server logged in
+[2024.10.09-13.08.06:615][963]PIE: Play in editor total start time 1.799 seconds.
+[2024.10.09-13.08.10:096][ 60]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.08.12:343][122]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.08.13:586][157]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.08.15:697][218]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.08.15:974][226]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.08.20:454][351]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.08.20:748][359]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.08.21:001][366]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.08.25:957][509]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.08.32:683][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.08.32:683][694]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.08.32:683][694]LogWorld: UWorld::CleanupWorld for MP2_LevelPt2, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-13.08.32:685][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.08.32:721][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.09-13.08.32:729][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.08.32:769][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.08.32:771][694]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.10.09-13.08.32:771][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.10.09-13.08.32:774][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.10.09-13.08.32:787][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.10.09-13.08.32:850][695]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.10.09-13.08.35:891][737]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.08.35:972][738]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.08.38:484][781]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.08.38:637][782]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.08.38:828][783]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.08.40:209][804]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack
+[2024.10.09-13.08.40:209][804]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.08.40:209][804]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.09-13.08.42:255][883]LogViewport: Scene viewport resized to 1601x966, mode Windowed.
+[2024.10.09-13.08.43:301][940]LogShaderCompilers: Display: ================================================
+[2024.10.09-13.08.43:301][940]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.09-13.08.43:301][940]LogShaderCompilers: Display: Total job queries 107, among them cache hits 18 (16.82%)
+[2024.10.09-13.08.43:301][940]LogShaderCompilers: Display: Tracking 89 distinct input hashes that result in 54 distinct outputs (60.67%)
+[2024.10.09-13.08.43:301][940]LogShaderCompilers: Display: RAM used: 189.92 KiB of 819.20 MiB budget. Usage: 0.02%
+[2024.10.09-13.08.43:301][940]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.09-13.08.43:301][940]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.10.09-13.08.43:301][940]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.10.09-13.08.43:301][940]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.10.09-13.08.43:301][940]LogShaderCompilers: Display: ================================================
+[2024.10.09-13.08.47:366][158]BlueprintLog: New page: Compile BP_HealthPack
+[2024.10.09-13.08.47:453][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.10.09-13.08.47:530][158]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.08.47:626][158]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack
+[2024.10.09-13.08.47:627][158]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_HealthPackC6112E6B49ED87AFD41B4B8C9515D42F.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.uasset'
+[2024.10.09-13.08.47:648][158]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 12.9 sec)
+[2024.10.09-13.08.47:675][158]AssetCheck: New page: Asset Save: BP_HealthPack
+[2024.10.09-13.08.47:675][158]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack
+[2024.10.09-13.09.01:854][981]BlueprintLog: New page: Compile BP_HealthPack
+[2024.10.09-13.09.01:924][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.10.09-13.09.01:981][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.09.02:087][981]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack
+[2024.10.09-13.09.02:089][981]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_HealthPackE3F15D974DDC7950228AEEA529E1845D.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.uasset'
+[2024.10.09-13.09.02:106][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 13.0 sec)
+[2024.10.09-13.09.02:129][981]AssetCheck: New page: Asset Save: BP_HealthPack
+[2024.10.09-13.09.02:129][981]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack
+[2024.10.09-13.09.06:918][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.09.07:123][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.09-13.09.07:213][212]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.09.07:215][212]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/MP2_LevelPt23DE293E34F2377E620365B9AD883DD0E.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Maps/MP2_LevelPt2.umap'
+[2024.10.09-13.09.07:222][212]LogFileHelpers: Saving map 'MP2_LevelPt2' took 0.138
+[2024.10.09-13.09.07:243][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 325 ms (total: 13.3 sec)
+[2024.10.09-13.09.07:258][212]AssetCheck: New page: Asset Save: MP2_LevelPt2
+[2024.10.09-13.09.07:258][212]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2
+[2024.10.09-13.09.07:681][222]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.09-13.09.07:694][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.09-13.09.07:694][222]PIE: New page: PIE session: MP2_LevelPt2 (Oct 9, 2024, 3:09:07 AM)
+[2024.10.09-13.09.07:694][222]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.09.07:731][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037276s)
+[2024.10.09-13.09.07:731][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2 to /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 (0.037348s)
+[2024.10.09-13.09.07:731][222]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.09.07:731][222]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.09-13.09.07:732][222]LogAIModule: Creating AISystem for world MP2_LevelPt2
+[2024.10.09-13.09.07:732][222]LogPlayLevel: PIE: World Init took: (0.001486s)
+[2024.10.09-13.09.07:786][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.10.09-13.09.07:788][222]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.10.09-13.09.07:788][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.09-13.09.07:788][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.09-13.09.07:788][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.09-13.09.07:788][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.09-13.09.07:788][222]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.09-13.09.07:788][222]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.09-13.09.07:788][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.09-13.09.07:788][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.09-13.09.07:789][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.09-13.09.07:789][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.09-13.09.07:789][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.09-13.09.07:793][222]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.09-13.09.07:890][222]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.09-13.09.07:890][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.09-13.09.07:890][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.09-13.09.07:890][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.09-13.09.07:893][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.10.09-13.09.07:893][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.10.09-13.09.07:899][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.10.09-13.09.07:899][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.10.09-13.09.07:899][222]LogInit: FAudioDevice initialized with ID 21.
+[2024.10.09-13.09.07:899][222]LogAudio: Display: Audio Device (ID: 21) registered with world 'MP2_LevelPt2'.
+[2024.10.09-13.09.07:899][222]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.10.09-13.09.07:917][222]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.10.09-13.09.07:927][222]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_4, they are designed to work with AAIControllers!
+[2024.10.09-13.09.07:927][222]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_1, they are designed to work with AAIControllers!
+[2024.10.09-13.09.07:928][222]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 up for play (max tick rate 60) at 2024.10.09-08.09.07
+[2024.10.09-13.09.09:532][222]LogWorld: Bringing up level for play took: 1.615318
+[2024.10.09-13.09.09:535][222]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.10.09-13.09.09:538][222]LogBlueprintUserMessages: [Froge_AI_Controller_C_0] running Froge BT
+[2024.10.09-13.09.09:539][222]PIE: Server logged in
+[2024.10.09-13.09.09:541][222]PIE: Play in editor total start time 1.848 seconds.
+[2024.10.09-13.09.18:656][483]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.09.21:326][559]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.09.24:798][659]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.09.28:638][767]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.09.28:811][772]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.09.33:754][908]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.09.34:953][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.09.34:953][942]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.09.34:954][942]LogWorld: UWorld::CleanupWorld for MP2_LevelPt2, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-13.09.34:956][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.09.34:972][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.09-13.09.34:978][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.09.35:020][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.09.35:021][942]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.10.09-13.09.35:021][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.10.09-13.09.35:025][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.10.09-13.09.35:039][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.10.09-13.09.35:083][943]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.10.09-13.09.40:314][137]BlueprintLog: New page: Compile BP_MortarEnemy
+[2024.10.09-13.09.40:385][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.09-13.10.36:587][433]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.10.09-13.10.36:792][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.10.09-13.10.36:810][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:811][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:811][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:811][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:839][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:840][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:840][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:841][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:841][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:841][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:858][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:858][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:859][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:859][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:877][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:878][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:878][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:879][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:879][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:880][433]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.10.36:884][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.10.37:034][433]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.10.09-13.10.37:035][433]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_LearningKit_PlayerCharacter59DDFC1040FC8641791C9F9DA243ECCE.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.10.09-13.10.37:049][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 13.5 sec)
+[2024.10.09-13.10.37:061][433]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.10.09-13.10.37:061][433]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.10.09-13.11.03:598][873]BlueprintLog: New page: Compile BP_Explosion
+[2024.10.09-13.11.03:655][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.10.09-13.11.03:691][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.11.03:789][873]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion
+[2024.10.09-13.11.03:790][873]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Explosion13F694AE4D684564ABD37B8A05D9C320.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Effects/BP_Explosion.uasset'
+[2024.10.09-13.11.03:803][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 13.6 sec)
+[2024.10.09-13.11.03:810][873]AssetCheck: New page: Asset Save: BP_Explosion
+[2024.10.09-13.11.03:810][873]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion.BP_Explosion
+[2024.10.09-13.11.04:083][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.11.04:156][888]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion
+[2024.10.09-13.11.04:157][888]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Explosion0831718F47744D8DA94818AED84B1408.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Effects/BP_Explosion.uasset'
+[2024.10.09-13.11.04:172][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 13.7 sec)
+[2024.10.09-13.11.04:197][888]AssetCheck: New page: Asset Save: BP_Explosion
+[2024.10.09-13.11.04:197][888]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion.BP_Explosion
+[2024.10.09-13.11.04:905][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.11.05:091][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.09-13.11.05:177][911]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.11.05:179][911]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/MP2_LevelPt2D53541CE48240A01CD0FF1B775B6559D.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Maps/MP2_LevelPt2.umap'
+[2024.10.09-13.11.05:188][911]LogFileHelpers: Saving map 'MP2_LevelPt2' took 0.132
+[2024.10.09-13.11.05:207][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 301 ms (total: 14.0 sec)
+[2024.10.09-13.11.05:215][911]AssetCheck: New page: Asset Save: MP2_LevelPt2
+[2024.10.09-13.11.05:215][911]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2
+[2024.10.09-13.11.05:691][921]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.09-13.11.05:704][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.09-13.11.05:704][921]PIE: New page: PIE session: MP2_LevelPt2 (Oct 9, 2024, 3:11:05 AM)
+[2024.10.09-13.11.05:706][921]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.11.05:739][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032727s)
+[2024.10.09-13.11.05:739][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2 to /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 (0.032808s)
+[2024.10.09-13.11.05:739][921]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.11.05:739][921]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.09-13.11.05:740][921]LogAIModule: Creating AISystem for world MP2_LevelPt2
+[2024.10.09-13.11.05:741][921]LogPlayLevel: PIE: World Init took: (0.001750s)
+[2024.10.09-13.11.05:787][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.10.09-13.11.05:790][921]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.10.09-13.11.05:790][921]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.09-13.11.05:790][921]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.09-13.11.05:790][921]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.09-13.11.05:790][921]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.09-13.11.05:790][921]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.09-13.11.05:790][921]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.09-13.11.05:790][921]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.09-13.11.05:790][921]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.09-13.11.05:791][921]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.09-13.11.05:791][921]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.09-13.11.05:791][921]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.09-13.11.05:797][921]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.09-13.11.05:865][921]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.09-13.11.05:866][921]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.09-13.11.05:866][921]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.09-13.11.05:866][921]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.09-13.11.05:867][921]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.10.09-13.11.05:867][921]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.10.09-13.11.05:869][921]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.10.09-13.11.05:869][921]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.10.09-13.11.05:869][921]LogInit: FAudioDevice initialized with ID 22.
+[2024.10.09-13.11.05:869][921]LogAudio: Display: Audio Device (ID: 22) registered with world 'MP2_LevelPt2'.
+[2024.10.09-13.11.05:869][921]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.10.09-13.11.05:902][921]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.10.09-13.11.05:912][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_4, they are designed to work with AAIControllers!
+[2024.10.09-13.11.05:912][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_1, they are designed to work with AAIControllers!
+[2024.10.09-13.11.05:912][921]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 up for play (max tick rate 60) at 2024.10.09-08.11.05
+[2024.10.09-13.11.07:435][921]LogWorld: Bringing up level for play took: 1.532361
+[2024.10.09-13.11.07:438][921]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.10.09-13.11.07:441][921]LogBlueprintUserMessages: [Froge_AI_Controller_C_0] running Froge BT
+[2024.10.09-13.11.07:443][921]PIE: Server logged in
+[2024.10.09-13.11.07:444][921]PIE: Play in editor total start time 1.74 seconds.
+[2024.10.09-13.11.10:298][  7]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.11.13:458][ 97]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.11.16:255][181]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.11.23:247][390]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.11.24:567][428]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.11.25:030][441]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.11.27:309][507]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.11.28:670][548]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.11.32:443][658]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.11.34:600][722]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.11.35:523][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.11.35:523][748]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.11.35:523][748]LogWorld: UWorld::CleanupWorld for MP2_LevelPt2, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-13.11.35:525][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.11.35:561][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.09-13.11.35:567][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.11.35:600][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.11.35:602][748]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.10.09-13.11.35:602][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.10.09-13.11.35:606][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.10.09-13.11.35:620][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.10.09-13.11.35:661][749]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.10.09-13.11.53:300][643]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.10.09-13.11.53:530][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.09-13.11.53:553][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:553][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:553][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:554][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:587][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:588][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:589][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:589][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:589][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:590][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:608][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:608][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:609][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:609][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:629][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:630][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:630][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:630][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:631][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:631][643]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.11.53:636][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.11.53:777][643]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.10.09-13.11.53:778][643]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_LearningKit_PlayerCharacterB780CA98436BDAA086D560A8AE471C93.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.10.09-13.11.53:795][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 14.2 sec)
+[2024.10.09-13.11.53:807][643]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.10.09-13.11.53:807][643]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.10.09-13.12.04:450][263]BlueprintLog: New page: Compile BP_Explosion
+[2024.10.09-13.12.04:511][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.10.09-13.12.04:545][263]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.12.04:627][263]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion
+[2024.10.09-13.12.04:628][263]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Explosion0F538F374E6A4F3F7E339499C6397444.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Effects/BP_Explosion.uasset'
+[2024.10.09-13.12.04:646][263]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 14.3 sec)
+[2024.10.09-13.12.04:659][263]AssetCheck: New page: Asset Save: BP_Explosion
+[2024.10.09-13.12.04:659][263]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion.BP_Explosion
+[2024.10.09-13.12.04:892][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.12.04:976][274]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion
+[2024.10.09-13.12.04:977][274]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Explosion2B054AFA44DCB4B69189D3A9264AB75C.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Effects/BP_Explosion.uasset'
+[2024.10.09-13.12.04:994][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 14.4 sec)
+[2024.10.09-13.12.05:001][274]AssetCheck: New page: Asset Save: BP_Explosion
+[2024.10.09-13.12.05:001][274]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion.BP_Explosion
+[2024.10.09-13.12.11:421][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.12.11:474][648]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion
+[2024.10.09-13.12.11:475][648]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Explosion577D56BC423746C921DC86BA1D60A86C.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Effects/BP_Explosion.uasset'
+[2024.10.09-13.12.11:490][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 14.4 sec)
+[2024.10.09-13.12.11:497][648]AssetCheck: New page: Asset Save: BP_Explosion
+[2024.10.09-13.12.11:497][648]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion.BP_Explosion
+[2024.10.09-13.12.24:505][409]BlueprintLog: New page: Compile BP_Explosion
+[2024.10.09-13.12.24:558][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.09-13.12.41:118][390]BlueprintLog: New page: Compile BP_Pursuer_BT
+[2024.10.09-13.12.41:144][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:144][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:145][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:188][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.10.09-13.12.41:221][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:223][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:223][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:224][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:224][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:224][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_6, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:225][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:284][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:284][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:285][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:285][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:286][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:286][390]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.12.41:290][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.12.41:390][390]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Enemies/AI/AI_BT/BP_Pursuer_BT
+[2024.10.09-13.12.41:391][390]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Pursuer_BT90F2BA72465C5E7197350896F94F2D45.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/AI/AI_BT/BP_Pursuer_BT.uasset'
+[2024.10.09-13.12.41:407][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 14.5 sec)
+[2024.10.09-13.12.41:416][390]AssetCheck: New page: Asset Save: BP_Pursuer_BT
+[2024.10.09-13.12.41:416][390]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Enemies/AI/AI_BT/BP_Pursuer_BT.BP_Pursuer_BT
+[2024.10.09-13.12.47:464][744]BlueprintLog: New page: Compile BP_MortarEnemy
+[2024.10.09-13.12.47:528][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.10.09-13.12.47:593][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.12.47:693][744]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy
+[2024.10.09-13.12.47:694][744]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_MortarEnemyF55B2F2144EDE91F534FF8870070A3EA.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy.uasset'
+[2024.10.09-13.12.47:710][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 14.7 sec)
+[2024.10.09-13.12.47:718][744]AssetCheck: New page: Asset Save: BP_MortarEnemy
+[2024.10.09-13.12.47:718][744]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy.BP_MortarEnemy
+[2024.10.09-13.12.51:344][950]BlueprintLog: New page: Compile BP_MortarEnemy
+[2024.10.09-13.12.51:404][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.10.09-13.12.51:474][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.12.51:566][950]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy
+[2024.10.09-13.12.51:567][950]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_MortarEnemyD96B96BF43DE61FD3D88B397F1147724.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy.uasset'
+[2024.10.09-13.12.51:582][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 14.8 sec)
+[2024.10.09-13.12.51:590][950]AssetCheck: New page: Asset Save: BP_MortarEnemy
+[2024.10.09-13.12.51:590][950]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy.BP_MortarEnemy
+[2024.10.09-13.12.59:811][428]BlueprintLog: New page: Compile BP_MortarEnemy
+[2024.10.09-13.12.59:871][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.10.09-13.12.59:935][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.13.00:048][428]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy
+[2024.10.09-13.13.00:049][428]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_MortarEnemy0F2835904FB3FB0DF1B8ECA9A4B527FE.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy.uasset'
+[2024.10.09-13.13.00:065][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 14.9 sec)
+[2024.10.09-13.13.00:073][428]AssetCheck: New page: Asset Save: BP_MortarEnemy
+[2024.10.09-13.13.00:073][428]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy.BP_MortarEnemy
+[2024.10.09-13.13.01:046][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.13.01:123][484]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy
+[2024.10.09-13.13.01:124][484]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_MortarEnemyA8ABFE5A45CA7E99517B39909EF3BD94.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy.uasset'
+[2024.10.09-13.13.01:138][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 15.0 sec)
+[2024.10.09-13.13.01:148][484]AssetCheck: New page: Asset Save: BP_MortarEnemy
+[2024.10.09-13.13.01:148][484]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy.BP_MortarEnemy
+[2024.10.09-13.13.10:238][  8]BlueprintLog: New page: Compile BP_Froge
+[2024.10.09-13.13.10:265][  8]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.13.10:265][  8]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.13.10:310][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.10.09-13.13.10:315][  8]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.13.10:315][  8]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.13.10:316][  8]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.13.10:316][  8]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.13.10:317][  8]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.13.10:369][  8]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.13.10:369][  8]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.13.10:371][  8]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.13.10:371][  8]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.13.10:388][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.13.10:478][  8]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Enemies/AI/AI_Froge/BP_Froge
+[2024.10.09-13.13.10:480][  8]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Froge0CF7FB554A863F75984338AEEB07FDA6.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/AI/AI_Froge/BP_Froge.uasset'
+[2024.10.09-13.13.10:494][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 15.1 sec)
+[2024.10.09-13.13.10:501][  8]AssetCheck: New page: Asset Save: BP_Froge
+[2024.10.09-13.13.10:501][  8]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Enemies/AI/AI_Froge/BP_Froge.BP_Froge
+[2024.10.09-13.13.11:223][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.13.11:416][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.10.09-13.13.11:515][ 27]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.13.11:516][ 27]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/MP2_LevelPt2A00AB0EF460FD3052116848E763053B4.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Maps/MP2_LevelPt2.umap'
+[2024.10.09-13.13.11:526][ 27]LogFileHelpers: Saving map 'MP2_LevelPt2' took 0.148
+[2024.10.09-13.13.11:545][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 321 ms (total: 15.4 sec)
+[2024.10.09-13.13.11:559][ 27]AssetCheck: New page: Asset Save: MP2_LevelPt2
+[2024.10.09-13.13.11:559][ 27]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2
+[2024.10.09-13.13.13:770][134]LogViewport: Scene viewport resized to 1601x966, mode Windowed.
+[2024.10.09-13.13.22:105][614]BlueprintLog: New page: Compile BP_MortarEnemy
+[2024.10.09-13.13.22:183][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.09-13.13.22:260][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.13.22:366][614]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy
+[2024.10.09-13.13.22:368][614]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_MortarEnemy86B88F0E499BB4B1D2CD74A51B718C95.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy.uasset'
+[2024.10.09-13.13.22:386][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 15.5 sec)
+[2024.10.09-13.13.22:410][614]AssetCheck: New page: Asset Save: BP_MortarEnemy
+[2024.10.09-13.13.22:410][614]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy.BP_MortarEnemy
+[2024.10.09-13.13.22:834][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.13.22:914][631]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy
+[2024.10.09-13.13.22:915][631]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_MortarEnemyA2B2D9A148F4098FD97773A9AB9B6B58.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy.uasset'
+[2024.10.09-13.13.22:930][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 15.6 sec)
+[2024.10.09-13.13.22:938][631]AssetCheck: New page: Asset Save: BP_MortarEnemy
+[2024.10.09-13.13.22:938][631]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Enemies/BP_MortarEnemy.BP_MortarEnemy
+[2024.10.09-13.13.25:012][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.13.25:238][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.10.09-13.13.25:323][737]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.13.25:324][737]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/MP2_LevelPt2C2A590F349EF23824FB03BA24BB28045.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Maps/MP2_LevelPt2.umap'
+[2024.10.09-13.13.25:333][737]LogFileHelpers: Saving map 'MP2_LevelPt2' took 0.133
+[2024.10.09-13.13.25:348][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 336 ms (total: 16.0 sec)
+[2024.10.09-13.13.25:358][737]AssetCheck: New page: Asset Save: MP2_LevelPt2
+[2024.10.09-13.13.25:358][737]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2
+[2024.10.09-13.13.26:007][753]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.09-13.13.26:018][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.09-13.13.26:018][753]PIE: New page: PIE session: MP2_LevelPt2 (Oct 9, 2024, 3:13:26 AM)
+[2024.10.09-13.13.26:020][753]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.13.26:055][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034540s)
+[2024.10.09-13.13.26:055][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2 to /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 (0.034622s)
+[2024.10.09-13.13.26:055][753]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.13.26:055][753]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.09-13.13.26:056][753]LogAIModule: Creating AISystem for world MP2_LevelPt2
+[2024.10.09-13.13.26:056][753]LogPlayLevel: PIE: World Init took: (0.001448s)
+[2024.10.09-13.13.26:111][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.10.09-13.13.26:114][753]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.10.09-13.13.26:114][753]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.09-13.13.26:114][753]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.09-13.13.26:114][753]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.09-13.13.26:114][753]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.09-13.13.26:114][753]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.09-13.13.26:114][753]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.09-13.13.26:114][753]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.09-13.13.26:114][753]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.09-13.13.26:115][753]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.09-13.13.26:115][753]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.09-13.13.26:115][753]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.09-13.13.26:121][753]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.09-13.13.26:190][753]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.09-13.13.26:191][753]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.09-13.13.26:191][753]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.09-13.13.26:191][753]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.09-13.13.26:193][753]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.10.09-13.13.26:193][753]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.10.09-13.13.26:196][753]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.10.09-13.13.26:196][753]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.10.09-13.13.26:196][753]LogInit: FAudioDevice initialized with ID 23.
+[2024.10.09-13.13.26:196][753]LogAudio: Display: Audio Device (ID: 23) registered with world 'MP2_LevelPt2'.
+[2024.10.09-13.13.26:196][753]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.10.09-13.13.26:228][753]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.10.09-13.13.26:238][753]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_4, they are designed to work with AAIControllers!
+[2024.10.09-13.13.26:239][753]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_1, they are designed to work with AAIControllers!
+[2024.10.09-13.13.26:239][753]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 up for play (max tick rate 60) at 2024.10.09-08.13.26
+[2024.10.09-13.13.27:771][753]LogWorld: Bringing up level for play took: 1.542127
+[2024.10.09-13.13.27:774][753]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.10.09-13.13.27:777][753]LogBlueprintUserMessages: [Froge_AI_Controller_C_0] running Froge BT
+[2024.10.09-13.13.27:778][753]PIE: Server logged in
+[2024.10.09-13.13.27:779][753]PIE: Play in editor total start time 1.762 seconds.
+[2024.10.09-13.13.30:711][844]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.13.31:089][855]LogBlueprintUserMessages: [BP_Collectible_C_1] Collectable
+[2024.10.09-13.13.37:732][ 48]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.13.39:554][101]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.13.40:606][131]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.13.45:114][266]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.13.48:189][361]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.13.48:577][373]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.13.50:220][423]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.10.09-13.13.50:220][423]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.10.09-13.13.50:220][423]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.13.51:513][463]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.10.09-13.13.51:513][463]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.10.09-13.13.51:517][463]LogNet: Browse: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.13.51:517][463]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.13.51:517][463]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.13.51:519][463]LogWorld: UWorld::CleanupWorld for MP2_LevelPt2, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-13.13.51:520][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.13.51:586][463]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.09-13.13.51:593][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.10.09-13.13.51:599][463]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.13.51:628][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029426s)
+[2024.10.09-13.13.51:628][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2 to /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 (0.029521s)
+[2024.10.09-13.13.51:628][463]LogAudio: Display: Audio Device (ID: 23) registered with world 'MP2_LevelPt2'.
+[2024.10.09-13.13.51:628][463]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.13.51:629][463]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.09-13.13.51:629][463]LogAIModule: Creating AISystem for world MP2_LevelPt2
+[2024.10.09-13.13.51:630][463]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2024.10.09-13.13.51:630][463]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.10.09-13.13.51:634][463]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_4, they are designed to work with AAIControllers!
+[2024.10.09-13.13.51:634][463]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_1, they are designed to work with AAIControllers!
+[2024.10.09-13.13.51:637][463]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 up for play (max tick rate 60) at 2024.10.09-08.13.51
+[2024.10.09-13.13.53:150][463]LogWorld: Bringing up level for play took: 1.521132
+[2024.10.09-13.13.53:154][463]LogBlueprintUserMessages: [Froge_AI_Controller_C_0] running Froge BT
+[2024.10.09-13.13.53:156][463]LogLoad: Took 1.638733 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2)
+[2024.10.09-13.13.53:167][464]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.091034 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.10.09-13.13.55:026][515]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.13.56:123][546]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.13.57:323][581]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.14.00:028][658]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.14.01:977][717]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.14.05:106][817]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.14.07:377][882]LogBlueprintUserMessages: [BP_Collectible_C_1] Collectable
+[2024.10.09-13.14.07:486][885]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.14.07:486][885]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.14.08:797][922]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.14.11:892][ 14]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.14.12:968][ 47]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.10.09-13.14.12:968][ 47]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.10.09-13.14.12:968][ 47]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.14.13:790][ 72]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.10.09-13.14.13:790][ 72]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.10.09-13.14.13:793][ 72]LogNet: Browse: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.14.13:793][ 72]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.14.13:793][ 72]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.14.13:795][ 72]LogWorld: UWorld::CleanupWorld for MP2_LevelPt2, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-13.14.13:796][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.14.13:868][ 72]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.09-13.14.13:874][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.10.09-13.14.13:880][ 72]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.14.13:909][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028631s)
+[2024.10.09-13.14.13:909][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2 to /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 (0.028718s)
+[2024.10.09-13.14.13:909][ 72]LogAudio: Display: Audio Device (ID: 23) registered with world 'MP2_LevelPt2'.
+[2024.10.09-13.14.13:909][ 72]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.14.13:909][ 72]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.09-13.14.13:909][ 72]LogAIModule: Creating AISystem for world MP2_LevelPt2
+[2024.10.09-13.14.13:910][ 72]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2024.10.09-13.14.13:910][ 72]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.10.09-13.14.13:914][ 72]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_4, they are designed to work with AAIControllers!
+[2024.10.09-13.14.13:914][ 72]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_1, they are designed to work with AAIControllers!
+[2024.10.09-13.14.13:917][ 72]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 up for play (max tick rate 60) at 2024.10.09-08.14.13
+[2024.10.09-13.14.15:390][ 72]LogWorld: Bringing up level for play took: 1.479968
+[2024.10.09-13.14.15:393][ 72]LogBlueprintUserMessages: [Froge_AI_Controller_C_0] running Froge BT
+[2024.10.09-13.14.15:395][ 72]LogLoad: Took 1.602469 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2)
+[2024.10.09-13.14.15:405][ 73]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.091331 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.10.09-13.14.16:031][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.14.16:031][ 83]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.14.16:032][ 83]LogWorld: UWorld::CleanupWorld for MP2_LevelPt2, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-13.14.16:033][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.14.16:065][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.09-13.14.16:069][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.14.16:097][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.14.16:099][ 83]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.10.09-13.14.16:099][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.10.09-13.14.16:102][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.10.09-13.14.16:112][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.09-13.14.16:153][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2024.10.09-13.14.31:287][945]BlueprintLog: New page: Compile BP_Explosion
+[2024.10.09-13.14.31:346][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.10.09-13.14.31:382][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.14.31:482][945]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion
+[2024.10.09-13.14.31:483][945]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Explosion390BAF584982D13354C125A0B23D5D6B.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Effects/BP_Explosion.uasset'
+[2024.10.09-13.14.31:498][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 16.1 sec)
+[2024.10.09-13.14.31:506][945]AssetCheck: New page: Asset Save: BP_Explosion
+[2024.10.09-13.14.31:506][945]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion.BP_Explosion
+[2024.10.09-13.14.31:996][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.14.32:066][967]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion
+[2024.10.09-13.14.32:067][967]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_ExplosionE138384546DB6CDAAB54F0BE9E40A49F.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Effects/BP_Explosion.uasset'
+[2024.10.09-13.14.32:081][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 16.2 sec)
+[2024.10.09-13.14.32:088][967]AssetCheck: New page: Asset Save: BP_Explosion
+[2024.10.09-13.14.32:088][967]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion.BP_Explosion
+[2024.10.09-13.14.32:962][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.14.33:159][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.10.09-13.14.33:245][995]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.14.33:246][995]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/MP2_LevelPt27FF6956E4E5195807EBCBC9A4D17705A.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Maps/MP2_LevelPt2.umap'
+[2024.10.09-13.14.33:256][995]LogFileHelpers: Saving map 'MP2_LevelPt2' took 0.133
+[2024.10.09-13.14.33:275][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 313 ms (total: 16.5 sec)
+[2024.10.09-13.14.33:287][995]AssetCheck: New page: Asset Save: MP2_LevelPt2
+[2024.10.09-13.14.33:287][995]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2
+[2024.10.09-13.14.33:720][  6]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.09-13.14.33:732][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.09-13.14.33:732][  6]PIE: New page: PIE session: MP2_LevelPt2 (Oct 9, 2024, 3:14:33 AM)
+[2024.10.09-13.14.33:739][  6]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.14.33:772][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032592s)
+[2024.10.09-13.14.33:772][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2 to /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 (0.032677s)
+[2024.10.09-13.14.33:772][  6]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.14.33:772][  6]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.09-13.14.33:772][  6]LogAIModule: Creating AISystem for world MP2_LevelPt2
+[2024.10.09-13.14.33:773][  6]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2024.10.09-13.14.33:813][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.10.09-13.14.33:816][  6]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.10.09-13.14.33:816][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.09-13.14.33:816][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.09-13.14.33:816][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.09-13.14.33:816][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.09-13.14.33:816][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.09-13.14.33:816][  6]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.09-13.14.33:816][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.09-13.14.33:816][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.09-13.14.33:816][  6]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.09-13.14.33:816][  6]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.09-13.14.33:817][  6]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.09-13.14.33:821][  6]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.09-13.14.33:880][  6]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.09-13.14.33:882][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.09-13.14.33:882][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.09-13.14.33:882][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.09-13.14.33:883][  6]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.10.09-13.14.33:883][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.10.09-13.14.33:885][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.10.09-13.14.33:885][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.10.09-13.14.33:885][  6]LogInit: FAudioDevice initialized with ID 24.
+[2024.10.09-13.14.33:885][  6]LogAudio: Display: Audio Device (ID: 24) registered with world 'MP2_LevelPt2'.
+[2024.10.09-13.14.33:885][  6]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.10.09-13.14.33:890][  6]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.10.09-13.14.33:898][  6]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_4, they are designed to work with AAIControllers!
+[2024.10.09-13.14.33:899][  6]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_1, they are designed to work with AAIControllers!
+[2024.10.09-13.14.33:899][  6]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 up for play (max tick rate 60) at 2024.10.09-08.14.33
+[2024.10.09-13.14.35:444][  6]LogWorld: Bringing up level for play took: 1.554769
+[2024.10.09-13.14.35:447][  6]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2024.10.09-13.14.35:451][  6]LogBlueprintUserMessages: [Froge_AI_Controller_C_0] running Froge BT
+[2024.10.09-13.14.35:452][  6]PIE: Server logged in
+[2024.10.09-13.14.35:453][  6]PIE: Play in editor total start time 1.722 seconds.
+[2024.10.09-13.14.39:712][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.14.39:712][129]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.14.39:712][129]LogWorld: UWorld::CleanupWorld for MP2_LevelPt2, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-13.14.39:714][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.14.39:745][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.09-13.14.39:750][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.14.39:786][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.14.39:788][129]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.10.09-13.14.39:788][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.10.09-13.14.39:790][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.10.09-13.14.39:804][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.10.09-13.14.39:849][130]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2024.10.09-13.14.44:905][344]BlueprintLog: New page: Compile BP_Explosion
+[2024.10.09-13.14.44:958][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.10.09-13.14.44:992][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.14.45:095][344]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion
+[2024.10.09-13.14.45:096][344]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Explosion4A311FBC46A3AB336AA85E953ECE7B4E.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Effects/BP_Explosion.uasset'
+[2024.10.09-13.14.45:111][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 16.6 sec)
+[2024.10.09-13.14.45:119][344]AssetCheck: New page: Asset Save: BP_Explosion
+[2024.10.09-13.14.45:119][344]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion.BP_Explosion
+[2024.10.09-13.14.45:404][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.14.45:479][359]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion
+[2024.10.09-13.14.45:480][359]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Explosion84528B354BA9220B8F1604B920A0F107.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Effects/BP_Explosion.uasset'
+[2024.10.09-13.14.45:494][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 16.7 sec)
+[2024.10.09-13.14.45:501][359]AssetCheck: New page: Asset Save: BP_Explosion
+[2024.10.09-13.14.45:501][359]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion.BP_Explosion
+[2024.10.09-13.14.46:284][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.14.46:479][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.10.09-13.14.46:567][384]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.14.46:567][384]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/MP2_LevelPt25B8E3DB549CD76A8C1818AA2EDC84865.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Maps/MP2_LevelPt2.umap'
+[2024.10.09-13.14.46:579][384]LogFileHelpers: Saving map 'MP2_LevelPt2' took 0.138
+[2024.10.09-13.14.46:594][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 309 ms (total: 17.0 sec)
+[2024.10.09-13.14.46:604][384]AssetCheck: New page: Asset Save: MP2_LevelPt2
+[2024.10.09-13.14.46:604][384]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2
+[2024.10.09-13.14.47:065][394]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.09-13.14.47:077][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.09-13.14.47:078][394]PIE: New page: PIE session: MP2_LevelPt2 (Oct 9, 2024, 3:14:47 AM)
+[2024.10.09-13.14.47:078][394]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.14.47:118][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039725s)
+[2024.10.09-13.14.47:118][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2 to /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 (0.039825s)
+[2024.10.09-13.14.47:118][394]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.14.47:118][394]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.09-13.14.47:119][394]LogAIModule: Creating AISystem for world MP2_LevelPt2
+[2024.10.09-13.14.47:119][394]LogPlayLevel: PIE: World Init took: (0.001411s)
+[2024.10.09-13.14.47:160][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.10.09-13.14.47:163][394]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.10.09-13.14.47:163][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.09-13.14.47:163][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.09-13.14.47:163][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.09-13.14.47:163][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.09-13.14.47:163][394]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.09-13.14.47:163][394]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.09-13.14.47:163][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.09-13.14.47:163][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.09-13.14.47:164][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.09-13.14.47:164][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.09-13.14.47:164][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.09-13.14.47:166][394]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.09-13.14.47:218][394]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.09-13.14.47:219][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.09-13.14.47:219][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.09-13.14.47:219][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.09-13.14.47:220][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.10.09-13.14.47:220][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.10.09-13.14.47:223][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.10.09-13.14.47:223][394]LogInit: FAudioDevice initialized with ID 25.
+[2024.10.09-13.14.47:223][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.10.09-13.14.47:223][394]LogAudio: Display: Audio Device (ID: 25) registered with world 'MP2_LevelPt2'.
+[2024.10.09-13.14.47:223][394]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.10.09-13.14.47:230][394]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.10.09-13.14.47:238][394]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_4, they are designed to work with AAIControllers!
+[2024.10.09-13.14.47:239][394]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_1, they are designed to work with AAIControllers!
+[2024.10.09-13.14.47:240][394]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 up for play (max tick rate 60) at 2024.10.09-08.14.47
+[2024.10.09-13.14.48:774][394]LogWorld: Bringing up level for play took: 1.544274
+[2024.10.09-13.14.48:777][394]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2024.10.09-13.14.48:780][394]LogBlueprintUserMessages: [Froge_AI_Controller_C_0] running Froge BT
+[2024.10.09-13.14.48:782][394]PIE: Server logged in
+[2024.10.09-13.14.48:783][394]PIE: Play in editor total start time 1.705 seconds.
+[2024.10.09-13.14.48:797][395]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077651 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.10.09-13.14.52:895][516]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.14.58:832][692]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.15.09:015][  4]LogCharacterMovement: BP_Pursuer_BT_C_4 is stuck and failed to move! Velocity: X=405.43 Y=203.59 Z=0.00 Location: X=-809.12 Y=-1051.75 Z=87.07 Normal: X=-0.36 Y=-0.85 Z=-0.38 PenetrationDepth:1.667 Actor:BP_Froge_C_1 Component:StaticMesh BoneName:None (0 other events since notify)
+[2024.10.09-13.15.09:909][ 29]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.15.11:627][ 79]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.15.14:165][155]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.15.14:709][172]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.15.15:799][205]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.10.09-13.15.15:799][205]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.10.09-13.15.15:799][205]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.15.17:148][242]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.10.09-13.15.17:148][242]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.10.09-13.15.17:152][242]LogNet: Browse: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.15.17:152][242]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.15.17:152][242]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.15.17:154][242]LogWorld: UWorld::CleanupWorld for MP2_LevelPt2, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-13.15.17:155][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.15.17:218][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.09-13.15.17:226][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.10.09-13.15.17:231][242]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.15.17:262][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030299s)
+[2024.10.09-13.15.17:262][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2 to /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 (0.030392s)
+[2024.10.09-13.15.17:262][242]LogAudio: Display: Audio Device (ID: 25) registered with world 'MP2_LevelPt2'.
+[2024.10.09-13.15.17:262][242]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.15.17:262][242]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.09-13.15.17:262][242]LogAIModule: Creating AISystem for world MP2_LevelPt2
+[2024.10.09-13.15.17:263][242]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2024.10.09-13.15.17:263][242]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.10.09-13.15.17:267][242]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_4, they are designed to work with AAIControllers!
+[2024.10.09-13.15.17:267][242]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_1, they are designed to work with AAIControllers!
+[2024.10.09-13.15.17:270][242]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 up for play (max tick rate 60) at 2024.10.09-08.15.17
+[2024.10.09-13.15.18:761][242]LogWorld: Bringing up level for play took: 1.497807
+[2024.10.09-13.15.18:765][242]LogBlueprintUserMessages: [Froge_AI_Controller_C_0] running Froge BT
+[2024.10.09-13.15.18:767][242]LogLoad: Took 1.614306 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2)
+[2024.10.09-13.15.18:777][243]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.094324 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.10.09-13.15.20:955][307]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.15.21:761][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.15.21:761][330]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.15.21:762][330]LogWorld: UWorld::CleanupWorld for MP2_LevelPt2, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-13.15.21:764][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.15.21:797][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.09-13.15.21:804][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.15.21:839][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.15.21:840][330]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.10.09-13.15.21:840][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.10.09-13.15.21:843][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.10.09-13.15.21:856][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.10.09-13.15.21:897][331]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2024.10.09-13.15.49:127][870]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.10.09-13.15.49:343][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.10.09-13.15.49:360][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:360][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:361][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:361][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:402][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:403][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:403][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:404][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:404][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:404][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:422][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:422][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:423][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:423][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:440][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:441][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:441][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:442][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:442][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:442][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.15.49:447][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.15.49:602][870]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.10.09-13.15.49:603][870]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_LearningKit_PlayerCharacter877C8E644C5DD0E64FDFEBBA2BAF72BE.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.10.09-13.15.49:618][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 17.2 sec)
+[2024.10.09-13.15.49:629][870]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.10.09-13.15.49:629][870]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.10.09-13.15.50:744][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.15.50:867][935]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.10.09-13.15.50:867][935]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_LearningKit_PlayerCharacterBCE52EAC47B1C8F0720BA4B65EA2979E.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.10.09-13.15.50:882][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 17.3 sec)
+[2024.10.09-13.15.50:890][935]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.10.09-13.15.50:890][935]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.10.09-13.15.51:189][953]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.10.09-13.15.51:308][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.10.09-13.15.51:326][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:326][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:326][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:327][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:355][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:356][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:356][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:357][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:357][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:358][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:373][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:373][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:374][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:374][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:390][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:390][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:391][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:391][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:391][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.15.51:392][953]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.15.52:193][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.15.52:387][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.10.09-13.15.52:474][974]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.15.52:475][974]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/MP2_LevelPt2AE9C16E848863D1B1643E2B87D454E1D.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Maps/MP2_LevelPt2.umap'
+[2024.10.09-13.15.52:484][974]LogFileHelpers: Saving map 'MP2_LevelPt2' took 0.136
+[2024.10.09-13.15.52:499][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 305 ms (total: 17.6 sec)
+[2024.10.09-13.15.52:507][974]AssetCheck: New page: Asset Save: MP2_LevelPt2
+[2024.10.09-13.15.52:507][974]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2
+[2024.10.09-13.15.52:986][984]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.09-13.15.52:998][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.09-13.15.52:999][984]PIE: New page: PIE session: MP2_LevelPt2 (Oct 9, 2024, 3:15:52 AM)
+[2024.10.09-13.15.52:999][984]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.15.53:030][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029485s)
+[2024.10.09-13.15.53:030][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2 to /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 (0.029561s)
+[2024.10.09-13.15.53:030][984]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.15.53:030][984]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.09-13.15.53:031][984]LogAIModule: Creating AISystem for world MP2_LevelPt2
+[2024.10.09-13.15.53:031][984]LogPlayLevel: PIE: World Init took: (0.001695s)
+[2024.10.09-13.15.53:066][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.10.09-13.15.53:068][984]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.10.09-13.15.53:068][984]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.09-13.15.53:068][984]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.09-13.15.53:068][984]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.09-13.15.53:068][984]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.09-13.15.53:068][984]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.09-13.15.53:068][984]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.09-13.15.53:068][984]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.09-13.15.53:068][984]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.09-13.15.53:069][984]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.09-13.15.53:069][984]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.09-13.15.53:069][984]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.09-13.15.53:074][984]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.09-13.15.53:128][984]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.09-13.15.53:128][984]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.09-13.15.53:128][984]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.09-13.15.53:128][984]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.09-13.15.53:129][984]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.10.09-13.15.53:129][984]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.10.09-13.15.53:132][984]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.10.09-13.15.53:132][984]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.10.09-13.15.53:132][984]LogInit: FAudioDevice initialized with ID 26.
+[2024.10.09-13.15.53:132][984]LogAudio: Display: Audio Device (ID: 26) registered with world 'MP2_LevelPt2'.
+[2024.10.09-13.15.53:132][984]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.10.09-13.15.53:137][984]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.10.09-13.15.53:147][984]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_4, they are designed to work with AAIControllers!
+[2024.10.09-13.15.53:147][984]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_1, they are designed to work with AAIControllers!
+[2024.10.09-13.15.53:148][984]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 up for play (max tick rate 60) at 2024.10.09-08.15.53
+[2024.10.09-13.15.54:654][984]LogWorld: Bringing up level for play took: 1.516017
+[2024.10.09-13.15.54:657][984]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.10.09-13.15.54:662][984]LogBlueprintUserMessages: [Froge_AI_Controller_C_0] running Froge BT
+[2024.10.09-13.15.54:664][984]PIE: Server logged in
+[2024.10.09-13.15.54:665][984]PIE: Play in editor total start time 1.667 seconds.
+[2024.10.09-13.15.57:970][ 86]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.16.00:193][150]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.16.02:636][223]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.16.04:869][291]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.16.07:562][373]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.16.08:902][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.16.08:902][412]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.16.08:902][412]LogWorld: UWorld::CleanupWorld for MP2_LevelPt2, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-13.16.08:904][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.16.08:937][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.09-13.16.08:942][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.16.08:977][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.16.08:979][412]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.10.09-13.16.08:979][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.10.09-13.16.08:982][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.10.09-13.16.08:995][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.10.09-13.16.09:037][413]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.10.09-13.16.16:767][789]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.10.09-13.16.16:883][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.10.09-13.16.16:901][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:901][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:902][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:902][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:931][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:932][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:932][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:933][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:933][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:934][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:952][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:953][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:953][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:953][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:973][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:973][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:973][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:975][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:975][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:975][789]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.16.16:980][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.16.17:137][789]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.10.09-13.16.17:139][789]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_LearningKit_PlayerCharacter5736DCE749D0528AE1F9688C44BDC058.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.10.09-13.16.17:155][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 17.8 sec)
+[2024.10.09-13.16.17:165][789]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.10.09-13.16.17:165][789]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.10.09-13.16.17:419][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.16.17:542][802]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.10.09-13.16.17:543][802]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_LearningKit_PlayerCharacter0ADC70984EABDA772ECFD68306245926.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.10.09-13.16.17:557][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 17.9 sec)
+[2024.10.09-13.16.17:566][802]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.10.09-13.16.17:566][802]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.10.09-13.16.18:582][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.16.18:808][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.10.09-13.16.18:896][833]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.16.18:897][833]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/MP2_LevelPt2F80E54254BFD886DEA0AE4848A94AA9D.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Maps/MP2_LevelPt2.umap'
+[2024.10.09-13.16.18:905][833]LogFileHelpers: Saving map 'MP2_LevelPt2' took 0.136
+[2024.10.09-13.16.18:921][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 339 ms (total: 18.3 sec)
+[2024.10.09-13.16.18:932][833]AssetCheck: New page: Asset Save: MP2_LevelPt2
+[2024.10.09-13.16.18:932][833]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2
+[2024.10.09-13.16.19:582][849]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.09-13.16.19:594][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.09-13.16.19:595][849]PIE: New page: PIE session: MP2_LevelPt2 (Oct 9, 2024, 3:16:19 AM)
+[2024.10.09-13.16.19:595][849]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.16.19:632][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036725s)
+[2024.10.09-13.16.19:632][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2 to /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 (0.036804s)
+[2024.10.09-13.16.19:632][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.16.19:632][849]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.09-13.16.19:632][849]LogAIModule: Creating AISystem for world MP2_LevelPt2
+[2024.10.09-13.16.19:633][849]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2024.10.09-13.16.19:675][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2024.10.09-13.16.19:680][849]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.10.09-13.16.19:680][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.09-13.16.19:680][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.09-13.16.19:680][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.09-13.16.19:680][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.09-13.16.19:680][849]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.09-13.16.19:680][849]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.09-13.16.19:680][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.09-13.16.19:680][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.09-13.16.19:681][849]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.09-13.16.19:681][849]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.09-13.16.19:681][849]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.09-13.16.19:685][849]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.09-13.16.19:739][849]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.09-13.16.19:739][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.09-13.16.19:739][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.09-13.16.19:739][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.09-13.16.19:739][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.10.09-13.16.19:739][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.10.09-13.16.19:743][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.10.09-13.16.19:744][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.10.09-13.16.19:744][849]LogInit: FAudioDevice initialized with ID 27.
+[2024.10.09-13.16.19:744][849]LogAudio: Display: Audio Device (ID: 27) registered with world 'MP2_LevelPt2'.
+[2024.10.09-13.16.19:744][849]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.10.09-13.16.19:749][849]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.10.09-13.16.19:758][849]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_4, they are designed to work with AAIControllers!
+[2024.10.09-13.16.19:759][849]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_1, they are designed to work with AAIControllers!
+[2024.10.09-13.16.19:759][849]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 up for play (max tick rate 60) at 2024.10.09-08.16.19
+[2024.10.09-13.16.21:285][849]LogWorld: Bringing up level for play took: 1.535926
+[2024.10.09-13.16.21:295][849]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2024.10.09-13.16.21:300][849]LogBlueprintUserMessages: [Froge_AI_Controller_C_0] running Froge BT
+[2024.10.09-13.16.21:302][849]PIE: Server logged in
+[2024.10.09-13.16.21:302][849]PIE: Play in editor total start time 1.708 seconds.
+[2024.10.09-13.16.21:314][850]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.086488 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.10.09-13.16.23:130][906]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.16.25:035][960]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.16.25:144][963]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.16.26:568][  4]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.16.26:708][  8]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.16.26:708][  8]LogBlueprintUserMessages: [BP_MortarEnemy_C_4] hit on head!
+[2024.10.09-13.16.31:784][155]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.16.31:984][161]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.16.34:450][234]LogBlueprintUserMessages: [BP_Froge_C_1] hit on head!
+[2024.10.09-13.16.40:519][416]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.16.41:394][442]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.16.46:805][604]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.16.47:777][633]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.16.49:974][699]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.16.52:527][777]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.16.53:843][815]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.16.53:843][815]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.16.55:214][856]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.17.01:113][ 31]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.17.04:348][125]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.17.05:771][166]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.17.09:374][272]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.17.09:408][273]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.17.12:079][354]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.17.14:897][440]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.17.15:185][449]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.17.16:484][487]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.17.18:766][557]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.17.19:048][566]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.17.22:423][667]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.17.24:889][742]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.17.28:481][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.17.28:481][853]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.17.28:481][853]LogWorld: UWorld::CleanupWorld for MP2_LevelPt2, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-13.17.28:483][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.17.28:505][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.09-13.17.28:512][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.17.28:546][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.17.28:548][853]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.10.09-13.17.28:549][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.10.09-13.17.28:551][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.10.09-13.17.28:566][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.10.09-13.17.28:612][854]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.10.09-13.17.32:973][990]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.32:974][990]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.39:912][382]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.17.39:912][382]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.39:913][382]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.41:052][444]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.17.41:053][444]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.41:053][444]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.42:926][547]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.17.42:926][547]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.42:927][547]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.49:743][931]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.17.49:743][931]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.49:744][931]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.52:304][ 61]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.17.52:304][ 61]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.52:305][ 61]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.54:387][175]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.17.54:387][175]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.54:388][175]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.56:191][274]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.17.56:191][274]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.56:191][274]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.57:625][357]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.17.57:625][357]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.57:626][357]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.59:227][449]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.17.59:228][449]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.17.59:228][449]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:110][732]BlueprintLog: New page: Compile BP_Pursuer_BT
+[2024.10.09-13.18.04:142][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:142][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:142][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:195][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.09-13.18.04:229][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:230][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:231][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:231][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:231][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:232][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_7, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:233][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:287][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:288][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:288][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:289][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:289][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:290][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:293][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.18.04:389][732]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Enemies/AI/AI_BT/BP_Pursuer_BT
+[2024.10.09-13.18.04:389][732]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Pursuer_BT53C61F1844DBB7D64A616BBCCD121A1D.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/AI/AI_BT/BP_Pursuer_BT.uasset'
+[2024.10.09-13.18.04:406][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 18.4 sec)
+[2024.10.09-13.18.04:427][732]AssetCheck: New page: Asset Save: BP_Pursuer_BT
+[2024.10.09-13.18.04:427][732]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Enemies/AI/AI_BT/BP_Pursuer_BT.BP_Pursuer_BT
+[2024.10.09-13.18.04:446][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:447][732]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.04:851][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.18.04:931][753]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Enemies/AI/AI_BT/BP_Pursuer_BT
+[2024.10.09-13.18.04:932][753]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Pursuer_BTD8723C1C451A44DF39BF1B923B900810.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/AI/AI_BT/BP_Pursuer_BT.uasset'
+[2024.10.09-13.18.04:947][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 18.5 sec)
+[2024.10.09-13.18.04:954][753]AssetCheck: New page: Asset Save: BP_Pursuer_BT
+[2024.10.09-13.18.04:954][753]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Enemies/AI/AI_BT/BP_Pursuer_BT.BP_Pursuer_BT
+[2024.10.09-13.18.13:610][268]BlueprintLog: New page: Compile BP_Pursuer_BT
+[2024.10.09-13.18.13:637][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.13:638][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.13:638][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.18.13:684][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.10.09-13.18.13:705][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.13:706][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.13:706][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.13:707][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.13:707][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.18.13:707][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_8, they are designed to work with AAIControllers!
+[2024.10.09-13.18.13:709][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_9, they are designed to work with AAIControllers!
+[2024.10.09-13.18.13:759][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.13:760][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.13:760][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.13:761][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_0, they are designed to work with AAIControllers!
+[2024.10.09-13.18.13:761][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_9, they are designed to work with AAIControllers!
+[2024.10.09-13.18.13:761][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_9, they are designed to work with AAIControllers!
+[2024.10.09-13.18.14:593][311]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.18.14:693][311]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Enemies/AI/AI_BT/BP_Pursuer_BT
+[2024.10.09-13.18.14:694][311]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Pursuer_BTC24B87E0488D9FC326A9808655E90304.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/AI/AI_BT/BP_Pursuer_BT.uasset'
+[2024.10.09-13.18.14:710][311]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 18.6 sec)
+[2024.10.09-13.18.14:717][311]AssetCheck: New page: Asset Save: BP_Pursuer_BT
+[2024.10.09-13.18.14:717][311]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Enemies/AI/AI_BT/BP_Pursuer_BT.BP_Pursuer_BT
+[2024.10.09-13.18.15:553][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.18.15:789][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.10.09-13.18.15:879][337]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.18.15:880][337]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/MP2_LevelPt23E82C989471C3FB3AB08EC9EF7294ADC.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Maps/MP2_LevelPt2.umap'
+[2024.10.09-13.18.15:888][337]LogFileHelpers: Saving map 'MP2_LevelPt2' took 0.136
+[2024.10.09-13.18.15:904][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 350 ms (total: 19.0 sec)
+[2024.10.09-13.18.15:913][337]AssetCheck: New page: Asset Save: MP2_LevelPt2
+[2024.10.09-13.18.15:913][337]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2
+[2024.10.09-13.18.16:400][347]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.09-13.18.16:412][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.09-13.18.16:412][347]PIE: New page: PIE session: MP2_LevelPt2 (Oct 9, 2024, 3:18:16 AM)
+[2024.10.09-13.18.16:414][347]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.18.16:446][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031968s)
+[2024.10.09-13.18.16:446][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2 to /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 (0.032040s)
+[2024.10.09-13.18.16:446][347]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-13.18.16:446][347]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.09-13.18.16:447][347]LogAIModule: Creating AISystem for world MP2_LevelPt2
+[2024.10.09-13.18.16:447][347]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2024.10.09-13.18.16:484][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.10.09-13.18.16:486][347]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.10.09-13.18.16:486][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.09-13.18.16:486][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.09-13.18.16:486][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.09-13.18.16:486][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.09-13.18.16:486][347]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.09-13.18.16:486][347]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.09-13.18.16:486][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.09-13.18.16:486][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.09-13.18.16:487][347]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.09-13.18.16:487][347]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.09-13.18.16:487][347]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.09-13.18.16:489][347]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.09-13.18.16:538][347]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.10.09-13.18.16:539][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.09-13.18.16:539][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.09-13.18.16:539][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.09-13.18.16:540][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.10.09-13.18.16:540][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.10.09-13.18.16:542][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.10.09-13.18.16:542][347]LogInit: FAudioDevice initialized with ID 28.
+[2024.10.09-13.18.16:542][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.10.09-13.18.16:543][347]LogAudio: Display: Audio Device (ID: 28) registered with world 'MP2_LevelPt2'.
+[2024.10.09-13.18.16:543][347]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.10.09-13.18.16:549][347]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.10.09-13.18.16:556][347]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Froge_C_1, they are designed to work with AAIControllers!
+[2024.10.09-13.18.16:557][347]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Pursuer_BT_C_4, they are designed to work with AAIControllers!
+[2024.10.09-13.18.16:557][347]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2.MP2_LevelPt2 up for play (max tick rate 60) at 2024.10.09-08.18.16
+[2024.10.09-13.18.18:017][347]LogWorld: Bringing up level for play took: 1.467972
+[2024.10.09-13.18.18:019][347]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2024.10.09-13.18.18:022][347]LogBlueprintUserMessages: [Froge_AI_Controller_C_0] running Froge BT
+[2024.10.09-13.18.18:025][347]PIE: Server logged in
+[2024.10.09-13.18.18:025][347]PIE: Play in editor total start time 1.613 seconds.
+[2024.10.09-13.18.20:728][427]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.28:917][668]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.28:951][669]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.29:588][688]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.29:621][689]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.30:198][706]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.30:810][724]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.31:571][747]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.31:601][748]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.32:448][774]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.32:699][782]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.33:301][801]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.33:817][817]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.34:348][833]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.34:843][848]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.35:371][864]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.35:897][880]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.36:491][898]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.37:114][916]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.37:605][930]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.38:098][944]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.38:603][958]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.39:162][974]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.44:387][115]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.44:915][130]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back
+[2024.10.09-13.18.48:269][230]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.18.48:680][242]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.18.50:303][290]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.18.53:977][397]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.18.55:695][450]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.10.09-13.18.55:695][450]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.10.09-13.18.55:695][450]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.18.55:916][457]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_C_0] knocking back explosion
+[2024.10.09-13.18.56:691][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.18.56:691][480]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MP2_LevelPt2
+[2024.10.09-13.18.56:692][480]LogWorld: UWorld::CleanupWorld for MP2_LevelPt2, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-13.18.56:694][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.18.56:725][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.09-13.18.56:733][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.18.56:770][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-13.18.56:772][480]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.10.09-13.18.56:772][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.10.09-13.18.56:775][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.10.09-13.18.56:789][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.10.09-13.18.56:805][481]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2024.10.09-13.18.59:155][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.18.59:360][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.09-13.18.59:445][526]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/MP2_LevelPt2
+[2024.10.09-13.18.59:446][526]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/MP2_LevelPt2D3691D304BF9149A6CDDDEB10CBEFDC6.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Maps/MP2_LevelPt2.umap'
+[2024.10.09-13.18.59:456][526]LogFileHelpers: Saving map 'MP2_LevelPt2' took 0.130
+[2024.10.09-13.18.59:469][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 314 ms (total: 19.3 sec)
+[2024.10.09-13.18.59:478][526]AssetCheck: New page: Asset Save: MP2_LevelPt2
+[2024.10.09-13.18.59:478][526]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MP2_LevelPt2.MP2_LevelPt2
+[2024.10.09-13.19.14:285][310]BlueprintLog: New page: Compile BP_Explosion
+[2024.10.09-13.19.14:342][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.10.09-13.19.14:377][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.19.14:484][310]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion
+[2024.10.09-13.19.14:485][310]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Explosion9113C20749562C9C66669CA566BB9AA1.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Effects/BP_Explosion.uasset'
+[2024.10.09-13.19.14:501][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 19.4 sec)
+[2024.10.09-13.19.14:506][310]AssetCheck: New page: Asset Save: BP_Explosion
+[2024.10.09-13.19.14:506][310]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion.BP_Explosion
+[2024.10.09-13.19.14:905][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.19.14:977][332]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion
+[2024.10.09-13.19.14:979][332]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Explosion5BD05E1E42A5F2C7CD2FE6ACC0953AAB.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Effects/BP_Explosion.uasset'
+[2024.10.09-13.19.14:992][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 19.5 sec)
+[2024.10.09-13.19.14:997][332]AssetCheck: New page: Asset Save: BP_Explosion
+[2024.10.09-13.19.14:997][332]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion.BP_Explosion
+[2024.10.09-13.23.43:469][415]BlueprintLog: New page: Compile BP_Explosion
+[2024.10.09-13.23.43:529][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.10.09-13.23.43:565][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.23.43:662][415]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion
+[2024.10.09-13.23.43:663][415]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_Explosion777AB92A4C727F56229C7D95FCD5EDF7.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Effects/BP_Explosion.uasset'
+[2024.10.09-13.23.43:680][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 19.6 sec)
+[2024.10.09-13.23.43:689][415]AssetCheck: New page: Asset Save: BP_Explosion
+[2024.10.09-13.23.43:689][415]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion.BP_Explosion
+[2024.10.09-13.24.01:859][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-13.24.01:934][928]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion
+[2024.10.09-13.24.01:935][928]LogSavePackage: Moving '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Saved/BP_ExplosionFAF63C9D4469DF764204F2A45D384394.tmp' to '../../../../../../Users/kindr/OneDrive/Documents/Unreal Projects/MP2_LevelDesign/CS415_MP2_LevelDesign/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Effects/BP_Explosion.uasset'
+[2024.10.09-13.24.01:947][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 19.7 sec)
+[2024.10.09-13.24.01:954][928]AssetCheck: New page: Asset Save: BP_Explosion
+[2024.10.09-13.24.01:954][928]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Effects/BP_Explosion.BP_Explosion
